@@ -57,7 +57,7 @@ interface Person {
 }
 
 interface Developer extends Person {
-    language : string
+    language: string;
 }
 
 var cpat: Developer = {
