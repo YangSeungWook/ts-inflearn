@@ -119,6 +119,6 @@ class AddressBook {
 
 new AddressBook();
 
-// 타입단언 오류 확인, 마우스 오버 해보기
+// 타입단언 오류 확인
 var div = document.querySelector('div');
-//div.innerText;
+div.innerText;
